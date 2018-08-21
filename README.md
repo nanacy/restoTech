@@ -1,24 +1,30 @@
 # README
+A site web for a restaurant.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Admire the site
+The link : ***  ***
 
-Things you may want to cover:
 
-* Ruby version
+## Installation on computer
 
-* System dependencies
+Version of ruby : **'2.5.1'**  
+ 
+Follow the rules to get the repository on your computer
+-First clone your repository
 
-* Configuration
+Execute the following line to install the necessary gems and the correct version of Ruby: 
+```
+$ bundle install --without production
+```
+To see the result on your local server
+```
+$ rails server
+```
+Go on your website
+```
+http://localhost:3000
+```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+--------------------------------------
+By Nancy CASSAND   
+--------------------------------------
