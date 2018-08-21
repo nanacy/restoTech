@@ -4,6 +4,6 @@ h1, h2{
 
 /* ------------------------------------- */
 
-@import css/components/tabs.css
-@import css/components/carousel.css
+@import url("css/components/tabs.css");
+@import url("css/components/carousel.css");
 
