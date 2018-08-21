@@ -1,0 +1,38 @@
+/* BOUTONS */
+button{
+	border: none;
+	border-width: 2px;
+	border-radius: 0.3rem;
+	
+	font-size: 1em;
+	line-height: 2em;
+	margin: 10px 1px;
+	padding: 11px 22px;
+	cursor: pointer;
+}
+.btn-primary{
+	background-color:#5F9EA0;
+	color: white;
+}
+.contentButt{
+	display: flex;
+	justify-content:center;
+}
+/* CADRE CONTENT */
+.contentText{
+	border: solid 1px black;
+	border-radius: 0.12em;
+	min-height: 50px;
+	padding: 3%;
+	text-align: justify;
+}
+
+.active{
+	background-color: #F0F8FF;
+	color: black;
+	border-bottom: solid 2px black;
+}
+
+/*.tabs{
+	border: solid 1px black;
+}*/

@@ -1,0 +1,24 @@
+/* CAROUSEL */
+.carousel{
+	background-color: magenta;
+	display: flex;
+	flex-direction: column;
+}
+/* BOUTONS ET IMAGES */
+.btn-img{
+	display: flex;
+	justify-content: center;
+}
+
+/* BOUTONS CERCLE POSITION */
+.btn-cercle{
+	text-align: center;
+}
+.btn{
+	width: 1px;
+	height: 20px;
+	border-radius: 200px;
+}
+.active-cercle{
+	background-color: orange;
+}

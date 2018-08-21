@@ -1,0 +1,9 @@
+h1, h2{
+	text-align: center;
+}
+
+/* ------------------------------------- */
+
+@import css/components/tabs.css
+@import css/components/carousel.css
+
